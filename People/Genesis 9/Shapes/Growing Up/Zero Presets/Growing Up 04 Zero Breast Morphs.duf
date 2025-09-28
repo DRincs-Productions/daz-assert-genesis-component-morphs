@@ -1,0 +1,34 @@
+{
+	"file_version" : "0.6.1.0",
+	"asset_info" : {
+		"id" : "/People/Genesis%209/Shapes/Growing%20Up/Zero%20Presets/Growing%20Up%2004%20Zero%20Breast%20Morphs.duf",
+		"type" : "preset_shape",
+		"contributor" : {
+			"author" : "Zev0",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2022-10-21T10:59:18Z"
+	},
+	"scene" : {
+		"animations" : [
+			{
+				"url" : "name://@selection#Youth%20Breast%201:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Youth%20Breast%202:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Youth%20Breast%203:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#GU%20Youth%20Chest%20Flatten:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			}
+		]
+	}
+}

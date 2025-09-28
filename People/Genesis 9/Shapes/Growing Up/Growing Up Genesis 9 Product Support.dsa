@@ -1,0 +1,3 @@
+// DAZ Studio version 4.7.0.12 filetype DAZ Script
+var g_sTOOL_NAME = "Pose Builder Product Support (DraagonStorm and Zev0)";
+App.showURL( "https://www.daz3d.com/forums/discussion/587086/growing-up-for-genesis-9-commercial/p1" );

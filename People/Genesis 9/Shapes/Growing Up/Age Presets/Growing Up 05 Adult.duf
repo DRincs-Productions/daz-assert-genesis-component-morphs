@@ -1,0 +1,54 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/People/Genesis%209/Shapes/Growing%20Up/Age%20Presets/Growing%20Up%2005%20Adult.duf",
+		"type" : "preset_shape",
+		"contributor" : {
+			"author" : "Zev0",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2022-08-30T15:06:36Z"
+	},
+	"scene" : {
+		"animations" : [
+			{
+				"url" : "name://@selection#GU%20Youth%20Base%20HD%20Details:?value/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection#GU%20Youth%20Main:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Youth%20Proportions%20Adjust:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Youth%20Shape%20Adjust:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Youth%20Weight:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Youth%20Shape%20Width:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#GU%20Youth%20Head%20Proportion:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#GU%20Stylized%20Head:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#GU%20Youth%20Head%20Width:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			}
+		]
+	}
+}

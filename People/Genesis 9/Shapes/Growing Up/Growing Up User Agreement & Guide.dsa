@@ -1,0 +1,4 @@
+var g_oFILE = new DzGZFile( getScriptFileName() );
+var g_sSCRIPT_NAME = String( "%1.%2" ).arg( g_oFILE.baseName() ).arg( g_oFILE.extension() );
+var g_sSCRIPT_LOCATION = g_oFILE.path();
+App.showURL( String("file:///%1/%2.pdf").arg( g_sSCRIPT_LOCATION ).arg(g_oFILE.baseName()) );

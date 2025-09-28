@@ -1,0 +1,34 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/People/Genesis%209/Shapes/Growing%20Up/Zero%20Presets/Zero%20Body%20Shape%20Morphs.duf",
+		"type" : "preset_shape",
+		"contributor" : {
+			"author" : "Zev0",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2022-08-30T14:20:24Z"
+	},
+	"scene" : {
+		"animations" : [
+			{
+				"url" : "name://@selection#Youth%20Proportions%20Adjust:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Youth%20Shape%20Adjust:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Youth%20Shape%20Width:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Youth%20Weight:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			}
+		]
+	}
+}
