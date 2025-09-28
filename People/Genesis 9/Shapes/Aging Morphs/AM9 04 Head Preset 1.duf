@@ -1,0 +1,278 @@
+{
+	"file_version" : "0.6.1.0",
+	"asset_info" : {
+		"id" : "/People/Genesis%209/Shapes/Zev0/Aging%20Morphs/AM9%2004%20Head%20Preset%201.duf",
+		"type" : "preset_shape",
+		"contributor" : {
+			"author" : "Zev0",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2024-02-28T06:57:24Z"
+	},
+	"scene" : {
+		"animations" : [
+			{
+				"url" : "name://@selection#AM_head_bs_%21Aging%20Head%20Controller:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_head_bs_Eyebrow%20Arch%20Adjuster:?value/value",
+				"keys" : [ [ 0, 0.5 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_head_bs_Eyebrow%20Centre%20Folds%20HD:?value/value",
+				"keys" : [ [ 0, 0.7826087 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_head_bs_Cheek%20Acne%20Scars%20HD:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_head_bs_Cheek%20Bone%20Expose%201:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_head_bs_Cheek%20Bone%20Expose%202:?value/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_head_bs_Cheek%20Inflate:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_head_bs_Cheek%20Lower%20FrontBack:?value/value",
+				"keys" : [ [ 0, 0.5652174 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_head_bs_Cheek%20Lower%20Width:?value/value",
+				"keys" : [ [ 0, 0.5217391 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_head_bs_Cheek%20Smoother:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_head_bs_Jaw%20Skin%20Sag:?value/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_head_bs_Ear%20Age:?value/value",
+				"keys" : [ [ 0, 0.5942029 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_head_bs_Ear%20Big:?value/value",
+				"keys" : [ [ 0, 0.6086956 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_head_bs_Eye%20Bags%20HD:?value/value",
+				"keys" : [ [ 0, 0.5797101 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_head_bs_Eye%20Sag%20Top:?value/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_head_bs_Eye%20Sag%20Under:?value/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_head_bs_Eye%20Side%20Wrinkles%20HD:?value/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_head_bs_Eye%20Socket%20Size:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_head_bs_Eyelid%20Sag%20Top:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_head_bs_Eyelid%20Size:?value/value",
+				"keys" : [ [ 0, 0.3043478 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_head_bs_Eyes%20Smaller:?value/value",
+				"keys" : [ [ 0, 0.2988506 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_head_bs_Under%20Eye%201%20HD:?value/value",
+				"keys" : [ [ 0, 0.2463768 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_head_bs_Under%20Eye%202%20HD:?value/value",
+				"keys" : [ [ 0, 0.6811594 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_head_bs_Under%20Eye%203%20HD:?value/value",
+				"keys" : [ [ 0, 0.7101449 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_head_bs_Under%20Eye%20Wrinkles%20HD:?value/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_head_bs_Basic%20Weight%201:?value/value",
+				"keys" : [ [ 0, 0.6231884 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_head_bs_Basic%20Weight%202:?value/value",
+				"keys" : [ [ 0, 0.1884058 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_head_bs_Basic%20Weight%203:?value/value",
+				"keys" : [ [ 0, -0.5072464 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_head_bs_Chin%20Acne%20Scars%20HD:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_head_bs_Chin%20Definition:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_head_bs_Chin%20Point%20Depth:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_head_bs_Chin%20Type%201:?value/value",
+				"keys" : [ [ 0, 0.04347825 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_head_bs_Chin%20Type%202:?value/value",
+				"keys" : [ [ 0, 0.1594203 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_head_bs_Chin%20Type%203:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_head_bs_Chin%20Under%20Width:?value/value",
+				"keys" : [ [ 0, 0.5402299 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_head_bs_Chin%20Wrinkles%20HD:?value/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_head_bs_Face%20Age%20Shape%20HD:?value/value",
+				"keys" : [ [ 0, 0.622449 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_head_bs_Face%20Assymetry%20Left:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_head_bs_Face%20Assymetry%20Right:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_head_bs_Face%20Base%20Detail%20HD:?value/value",
+				"keys" : [ [ 0, 0.5 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_head_bs_Face%20Base%20Skin%20HD:?value/value",
+				"keys" : [ [ 0, 0.7 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_head_bs_Face%20Fine%20Wrinkles%20HD:?value/value",
+				"keys" : [ [ 0, 0.6 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_head_bs_Face%20Sag:?value/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_head_bs_Face%20Skin:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_head_bs_Forehead%20Wrinkles%20HD:?value/value",
+				"keys" : [ [ 0, 0.8163266 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_head_bs_Temples:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_head_bs_Jowls%201%20HD:?value/value",
+				"keys" : [ [ 0, 0.2753623 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_head_bs_Jowls%202%20HD:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_head_bs_Laugh%20Lines%201%20HD:?value/value",
+				"keys" : [ [ 0, 0.3663366 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_head_bs_Laugh%20Lines%202%20HD:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_head_bs_Laugh%20Lines%203%20HD:?value/value",
+				"keys" : [ [ 0, 0.1014493 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_head_bs_Laugh%20Lines%204%20HD:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_head_bs_Mouth%20Corner%20Depth%20Adjust:?value/value",
+				"keys" : [ [ 0, 0.7178218 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_head_bs_Mouth%20Corner%20Height%20Adjust:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_head_bs_Mouth%20Sag:?value/value",
+				"keys" : [ [ 0, 0.6666667 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_head_bs_Mouth%20Wrinkles%20HD:?value/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_head_bs_Nasolabial%20Folds:?value/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_head_bs_Sunken%20Lips:?value/value",
+				"keys" : [ [ 0, 0.884058 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_head_bs_Teeth%20Hide:?value/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_head_bs_Thin%20Lips:?value/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_head_bs_Bulbous%201:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_head_bs_Bulbous%202:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_head_bs_Nose%20Age:?value/value",
+				"keys" : [ [ 0, 0.5217391 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_head_bs_Nose%20Pores%20HD:?value/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_head_bs_Nose%20Wrinkles%20HD:?value/value",
+				"keys" : [ [ 0, 0.5919541 ] ]
+			}
+		]
+	}
+}

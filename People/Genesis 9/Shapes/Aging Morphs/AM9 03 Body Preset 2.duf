@@ -1,0 +1,230 @@
+{
+	"file_version" : "0.6.1.0",
+	"asset_info" : {
+		"id" : "/People/Genesis%209/Shapes/Zev0/Aging%20Morphs/AM9%2003%20Body%20Preset%202.duf",
+		"type" : "preset_shape",
+		"contributor" : {
+			"author" : "Zev0",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2024-02-28T06:33:59Z"
+	},
+	"scene" : {
+		"animations" : [
+			{
+				"url" : "name://@selection#AM_body_bs_%21Aging%20Body%20Controller:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_body_bs_Aged%20Body%201%20Shape%20HD:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_body_bs_Aged%20Body%202%20Shape%20HD:?value/value",
+				"keys" : [ [ 0, 0.5 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_body_bs_Aged%20Glute:?value/value",
+				"keys" : [ [ 0, 0.6 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_body_bs_Aged%20Posture:?value/value",
+				"keys" : [ [ 0, 0.6 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_body_bs_Aging%20Breast%20Sag:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_body_bs_Aging%20Breast%20Size%20Reduce:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_body_bs_Back%20Hump%202:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_body_bs_Back%20Hump%201:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_body_bs_Back%20Hump%20Fat:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_body_bs_Body%20Weight:?value/value",
+				"keys" : [ [ 0, 0.5 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_body_bs_Hip%20Fat:?value/value",
+				"keys" : [ [ 0, 0.5 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_body_bs_Shoulder%20Drop:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_body_bs_Skin%20Sag:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_body_bs_Thigh%20Outer%20Fat%201:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_body_bs_Thigh%20Outer%20Fat%202:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_body_bs_Aging%20Arms%20Detail%20HD:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_body_bs_Aging%20Body%20Detail%20HD%201:?value/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_body_bs_Aging%20Body%20Detail%20HD%202:?value/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_body_bs_Aging%20Body%20Skin%20Base%20HD:?value/value",
+				"keys" : [ [ 0, 0.5 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_body_bs_Aging%20Feet%20Detail%20HD:?value/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_body_bs_Aging%20Hands%20Detail%20HD:?value/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_body_bs_Belly%20Cellulite%20HD:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_body_bs_Belly%20Stretchmarks%20HD:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_body_bs_Breast%20Stretchmarks%20HD:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#AM%20Crease%20Detail%20HD:?value/value",
+				"keys" : [ [ 0, 0.8 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_body_bs_Glute%20Cellulite%20Left%20HD%20A:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_body_bs_Glute%20Cellulite%20Left%20HD%20B:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_body_bs_Glute%20Cellulite%20Right%20HD%20A:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_body_bs_Glute%20Cellulite%20Right%20HD%20B:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_body_bs_Glute%20Stretchmarks%20HD:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_body_bs_Hip%20Stretchmarks%20HD:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_body_bs_Thigh%20Cellulite%20Left%20HD%20A:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_body_bs_Thigh%20Cellulite%20Left%20HD%20B:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_body_bs_Thigh%20Cellulite%20Right%20HD%20A:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_body_bs_Thigh%20Cellulite%20Right%20HD%20B:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_body_bs_Thigh%20Stretchmarks%20HD:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_body_bs_Vericose%20Veins%20Left%20Leg%20Less%20HD:?value/value",
+				"keys" : [ [ 0, 0.5 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_body_bs_Vericose%20Veins%20Left%20Leg%20More%20HD:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_body_bs_Vericose%20Veins%20Right%20Leg%20Less%20HD:?value/value",
+				"keys" : [ [ 0, 0.5 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_body_bs_Vericose%20Veins%20Right%20Leg%20More%20HD:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_body_bs_Neck%20Detail%201%20HD:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_body_bs_Neck%20Detail%202%20HD:?value/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_body_bs_Neck%20Detail%203%20HD:?value/value",
+				"keys" : [ [ 0, 0.6 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_body_bs_Neck%20Detail%204%20HD:?value/value",
+				"keys" : [ [ 0, 0.5 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_body_bs_Neck%20Fine%20Wrinkles%20HD:?value/value",
+				"keys" : [ [ 0, 0.5 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_body_bs_Neck%20Front%20Depth:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_body_bs_Neck%20Front%20Smoother:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_body_bs_Neck%20Pull%20Down:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_body_bs_Neck%20Wattle%20Double%20HD:?value/value",
+				"keys" : [ [ 0, 0.6067415 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_body_bs_Neck%20Weight:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_body_bs_Neck%20Weight%20Width:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_body_bs_Neck%20Wrinkles%20HD:?value/value",
+				"keys" : [ [ 0, 0.6 ] ]
+			}
+		]
+	}
+}

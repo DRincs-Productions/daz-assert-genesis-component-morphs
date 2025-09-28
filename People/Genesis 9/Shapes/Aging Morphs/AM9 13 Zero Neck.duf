@@ -1,0 +1,66 @@
+{
+	"file_version" : "0.6.1.0",
+	"asset_info" : {
+		"id" : "/People/Genesis%209/Shapes/Zev0/Aging%20Morphs/AM9%2013%20Zero%20Neck.duf",
+		"type" : "preset_shape",
+		"contributor" : {
+			"author" : "Zev0",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2024-03-05T09:37:17Z"
+	},
+	"scene" : {
+		"animations" : [
+			{
+				"url" : "name://@selection#AM_body_bs_Neck%20Detail%201%20HD:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_body_bs_Neck%20Detail%202%20HD:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_body_bs_Neck%20Detail%203%20HD:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_body_bs_Neck%20Detail%204%20HD:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_body_bs_Neck%20Fine%20Wrinkles%20HD:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_body_bs_Neck%20Front%20Depth:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_body_bs_Neck%20Front%20Smoother:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_body_bs_Neck%20Pull%20Down:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_body_bs_Neck%20Wattle%20Double%20HD:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_body_bs_Neck%20Weight:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_body_bs_Neck%20Weight%20Width:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#AM_body_bs_Neck%20Wrinkles%20HD:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			}
+		]
+	}
+}

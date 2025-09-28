@@ -1,0 +1,300 @@
+{
+	"file_version" : "0.6.1.0",
+	"asset_info" : {
+		"id" : "/data/Daz%203D/Genesis%209/Base/Morphs/Zev0/Aging%20Morphs%209/AM_head_bs_%21Aging%20Head%20Controller.dsf",
+		"type" : "modifier",
+		"contributor" : {
+			"author" : "Zev0",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2024-02-26T14:42:42Z"
+	},
+	"modifier_library" : [
+		{
+			"id" : "!Face Age Controller",
+			"name" : "AM_head_bs_!Aging Head Controller",
+			"parent" : "/data/Daz%203D/Genesis%209/Base/Genesis9.dsf#Genesis9",
+			"presentation" : {
+				"type" : "Modifier/Shape",
+				"label" : "",
+				"description" : "",
+				"icon_large" : "",
+				"colors" : [ [ 0.5372549, 0.3529412, 1 ], [ 1, 1, 1 ] ]
+			},
+			"channel" : {
+				"id" : "value",
+				"type" : "float",
+				"name" : "AM_head_bs_!Aging Head Controller",
+				"label" : "AM !Aging Head Controller",
+				"value" : 0,
+				"min" : 0,
+				"max" : 2,
+				"clamped" : true,
+				"display_as_percent" : true,
+				"step_size" : 0.04
+			},
+			"region" : "Head",
+			"group" : "/Base/Aging Morphs",
+			"formulas" : [
+				{
+					"output" : "Genesis9:/data/Daz%203D/Genesis%209/Base/Morphs/Zev0/Aging%20Morphs%209/AM_head_bs_Under%20Eye%20Wrinkles%20HD.dsf#Under%20Eye%20Wrinkles%20HD?value",
+					"operations" : [
+						{ "op" : "push", "url" : "Genesis9:#%21Face%20Age%20Controller?value" },
+						{ "op" : "push", "val" : 0.5 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Genesis9:/data/Daz%203D/Genesis%209/Base/Morphs/Zev0/Aging%20Morphs%209/AM_head_bs_Thin%20Lips.dsf#Thin%20Lips?value",
+					"operations" : [
+						{ "op" : "push", "url" : "Genesis9:#%21Face%20Age%20Controller?value" },
+						{ "op" : "push", "val" : 0.4 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Genesis9:/data/Daz%203D/Genesis%209/Base/Morphs/Zev0/Aging%20Morphs%209/AM_head_bs_Temples.dsf#Temples?value",
+					"operations" : [
+						{ "op" : "push", "url" : "Genesis9:#%21Face%20Age%20Controller?value" },
+						{ "op" : "push", "val" : 0.5 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Genesis9:/data/Daz%203D/Genesis%209/Base/Morphs/Zev0/Aging%20Morphs%209/AM_head_bs_Nose%20Age.dsf#Nose%20Age?value",
+					"operations" : [
+						{ "op" : "push", "url" : "Genesis9:#%21Face%20Age%20Controller?value" },
+						{ "op" : "push", "val" : 0.5 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Genesis9:/data/Daz%203D/Genesis%209/Base/Morphs/Zev0/Aging%20Morphs%209/AM_head_bs_Mouth%20Sag.dsf#Mouth%20Sag?value",
+					"operations" : [
+						{ "op" : "push", "url" : "Genesis9:#%21Face%20Age%20Controller?value" },
+						{ "op" : "push", "val" : 0.5 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Genesis9:/data/Daz%203D/Genesis%209/Base/Morphs/Zev0/Aging%20Morphs%209/AM_head_bs_Mouth%20Corner%20Height%20Adjust.dsf#Mouth%20Corner%20Adjust?value",
+					"operations" : [
+						{ "op" : "push", "url" : "Genesis9:#%21Face%20Age%20Controller?value" },
+						{ "op" : "push", "val" : 0.5 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Genesis9:/data/Daz%203D/Genesis%209/Base/Morphs/Zev0/Aging%20Morphs%209/AM_head_bs_Mouth%20Corner%20Depth%20Adjust.dsf#Mouth%20Corner%20Depth%20Adjust?value",
+					"operations" : [
+						{ "op" : "push", "url" : "Genesis9:#%21Face%20Age%20Controller?value" },
+						{ "op" : "push", "val" : 0.4 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Genesis9:/data/Daz%203D/Genesis%209/Base/Morphs/Zev0/Aging%20Morphs%209/AM_head_bs_Laugh%20Lines%204%20HD.dsf#Laugh%20Lines%204%20HD?value",
+					"operations" : [
+						{ "op" : "push", "url" : "Genesis9:#%21Face%20Age%20Controller?value" },
+						{ "op" : "push", "val" : 0.5 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Genesis9:/data/Daz%203D/Genesis%209/Base/Morphs/Zev0/Aging%20Morphs%209/AM_head_bs_Laugh%20Lines%201%20HD.dsf#Laugh%20Lines%201%20HD?value",
+					"operations" : [
+						{ "op" : "push", "url" : "Genesis9:#%21Face%20Age%20Controller?value" },
+						{ "op" : "push", "val" : 0.4 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Genesis9:/data/Daz%203D/Genesis%209/Base/Morphs/Zev0/Aging%20Morphs%209/AM_head_bs_Jowls%201%20HD.dsf#Jowls%201%20HD?value",
+					"operations" : [
+						{ "op" : "push", "url" : "Genesis9:#%21Face%20Age%20Controller?value" },
+						{ "op" : "push", "val" : 0.35 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Genesis9:/data/Daz%203D/Genesis%209/Base/Morphs/Zev0/Aging%20Morphs%209/AM_head_bs_Forehead%20Wrinkles%20HD.dsf#Forehead%20Wrinkles%20HD?value",
+					"operations" : [
+						{ "op" : "push", "url" : "Genesis9:#%21Face%20Age%20Controller?value" },
+						{ "op" : "push", "val" : 0.5 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Genesis9:/data/Daz%203D/Genesis%209/Base/Morphs/Zev0/Aging%20Morphs%209/AM_head_bs_Face%20Sag.dsf#Face%20Sag?value",
+					"operations" : [
+						{ "op" : "push", "url" : "Genesis9:#%21Face%20Age%20Controller?value" },
+						{ "op" : "push", "val" : 0.5 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Genesis9:/data/Daz%203D/Genesis%209/Base/Morphs/Zev0/Aging%20Morphs%209/AM_head_bs_Face%20Fine%20Wrinkles%20HD.dsf#Aging%20Face%20Fine%20Detail%20HD?value",
+					"operations" : [
+						{ "op" : "push", "url" : "Genesis9:#%21Face%20Age%20Controller?value" },
+						{ "op" : "push", "val" : 1 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Genesis9:/data/Daz%203D/Genesis%209/Base/Morphs/Zev0/Aging%20Morphs%209/AM_head_bs_Face%20Base%20Detail%20HD.dsf#Aging%20Face%20Base%20Detail%20HD?value",
+					"operations" : [
+						{ "op" : "push", "url" : "Genesis9:#%21Face%20Age%20Controller?value" },
+						{ "op" : "push", "val" : 0.5 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Genesis9:/data/Daz%203D/Genesis%209/Base/Morphs/Zev0/Aging%20Morphs%209/AM_head_bs_Face%20Age%20Shape%20HD.dsf#Face%20Age%20Shape%20HD?value",
+					"operations" : [
+						{ "op" : "push", "url" : "Genesis9:#%21Face%20Age%20Controller?value" },
+						{ "op" : "push", "val" : 0.4 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Genesis9:/data/Daz%203D/Genesis%209/Base/Morphs/Zev0/Aging%20Morphs%209/AM_head_bs_Eyelid%20Sag%20Top.dsf#Eyelid%20Sag%20Top?value",
+					"operations" : [
+						{ "op" : "push", "url" : "Genesis9:#%21Face%20Age%20Controller?value" },
+						{ "op" : "push", "val" : 0.5 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Genesis9:/data/Daz%203D/Genesis%209/Base/Morphs/Zev0/Aging%20Morphs%209/AM_head_bs_Eyebrow%20Centre%20Folds%20HD.dsf#Eyebrow%20Centre%20Folds%20HD?value",
+					"operations" : [
+						{ "op" : "push", "url" : "Genesis9:#%21Face%20Age%20Controller?value" },
+						{ "op" : "push", "val" : 0.3 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Genesis9:/data/Daz%203D/Genesis%209/Base/Morphs/Zev0/Aging%20Morphs%209/AM_head_bs_Eyebrow%20Arch%20Adjuster.dsf#Eyebrow%20Arch%20Adjuster?value",
+					"operations" : [
+						{ "op" : "push", "url" : "Genesis9:#%21Face%20Age%20Controller?value" },
+						{ "op" : "push", "val" : 0.5 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Genesis9:/data/Daz%203D/Genesis%209/Base/Morphs/Zev0/Aging%20Morphs%209/AM_head_bs_Eye%20Side%20Wrinkles%20HD.dsf#Eye%20Side%20Wrinkles%20HD?value",
+					"operations" : [
+						{ "op" : "push", "url" : "Genesis9:#%21Face%20Age%20Controller?value" },
+						{ "op" : "push", "val" : 0.5 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Genesis9:/data/Daz%203D/Genesis%209/Base/Morphs/Zev0/Aging%20Morphs%209/AM_head_bs_Eye%20Sag%20Under.dsf#Eye%20Sag%20Under?value",
+					"operations" : [
+						{ "op" : "push", "url" : "Genesis9:#%21Face%20Age%20Controller?value" },
+						{ "op" : "push", "val" : 0.5 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Genesis9:/data/Daz%203D/Genesis%209/Base/Morphs/Zev0/Aging%20Morphs%209/AM_head_bs_Eye%20Sag%20Top.dsf#Eye%20Sag%20Top?value",
+					"operations" : [
+						{ "op" : "push", "url" : "Genesis9:#%21Face%20Age%20Controller?value" },
+						{ "op" : "push", "val" : 0.5 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Genesis9:/data/Daz%203D/Genesis%209/Base/Morphs/Zev0/Aging%20Morphs%209/AM_head_bs_Ear%20Age.dsf#Ear%20Age?value",
+					"operations" : [
+						{ "op" : "push", "url" : "Genesis9:#%21Face%20Age%20Controller?value" },
+						{ "op" : "push", "val" : 0.2 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Genesis9:/data/Daz%203D/Genesis%209/Base/Morphs/Zev0/Aging%20Morphs%209/AM_head_bs_Chin%20Type%203.dsf#Neck%20Detail%205%20HD?value",
+					"operations" : [
+						{ "op" : "push", "url" : "Genesis9:#%21Face%20Age%20Controller?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Genesis9:/data/Daz%203D/Genesis%209/Base/Morphs/Zev0/Aging%20Morphs%209/AM_head_bs_Chin%20Point%20Depth.dsf#Chin%20Point%20Depth?value",
+					"operations" : [
+						{ "op" : "push", "url" : "Genesis9:#%21Face%20Age%20Controller?value" },
+						{ "op" : "push", "val" : 0.5 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Genesis9:/data/Daz%203D/Genesis%209/Base/Morphs/Zev0/Aging%20Morphs%209/AM_head_bs_Cheek%20Lower%20Width.dsf#Cheek%20Lower%20Width?value",
+					"operations" : [
+						{ "op" : "push", "url" : "Genesis9:#%21Face%20Age%20Controller?value" },
+						{ "op" : "push", "val" : 0.5 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Genesis9:/data/Daz%203D/Genesis%209/Base/Morphs/Zev0/Aging%20Morphs%209/AM_head_bs_Bulbous%202.dsf#Bulbous%202?value",
+					"operations" : [
+						{ "op" : "push", "url" : "Genesis9:#%21Face%20Age%20Controller?value" },
+						{ "op" : "push", "val" : 0.2 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Genesis9:/data/Daz%203D/Genesis%209/Base/Morphs/Zev0/Aging%20Morphs%209/AM_body_bs_Neck%20Wrinkles%20HD.dsf#Aging%20Neck%20Detail%20HD?value",
+					"operations" : [
+						{ "op" : "push", "url" : "Genesis9:#%21Face%20Age%20Controller?value" },
+						{ "op" : "push", "val" : 0.5 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Genesis9:/data/Daz%203D/Genesis%209/Base/Morphs/Zev0/Aging%20Morphs%209/AM_body_bs_Neck%20Wattle%20Double%20HD.dsf#Neck%20Wattle%20Double%20HD?value",
+					"operations" : [
+						{ "op" : "push", "url" : "Genesis9:#%21Face%20Age%20Controller?value" },
+						{ "op" : "push", "val" : 0.5 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Genesis9:/data/Daz%203D/Genesis%209/Base/Morphs/Zev0/Aging%20Morphs%209/AM_body_bs_Neck%20Pull%20Down.dsf#Neck%20Pull%20Down?value",
+					"operations" : [
+						{ "op" : "push", "url" : "Genesis9:#%21Face%20Age%20Controller?value" },
+						{ "op" : "push", "val" : 0.2 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Genesis9:/data/Daz%203D/Genesis%209/Base/Morphs/Zev0/Aging%20Morphs%209/AM_body_bs_Neck%20Detail%203%20HD.dsf#Neck%20Detail%203%20HD?value",
+					"operations" : [
+						{ "op" : "push", "url" : "Genesis9:#%21Face%20Age%20Controller?value" },
+						{ "op" : "push", "val" : 0.5 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Genesis9:/data/Daz%203D/Genesis%209/Base/Morphs/Zev0/Aging%20Morphs%209/AM_body_bs_Neck%20Detail%202%20HD.dsf#Neck%20Detail%202%20HD?value",
+					"operations" : [
+						{ "op" : "push", "url" : "Genesis9:#%21Face%20Age%20Controller?value" },
+						{ "op" : "push", "val" : 0.5 },
+						{ "op" : "mult" }
+					]
+				}
+			]
+		}
+	],
+	"scene" : {
+		"modifiers" : [
+			{
+				"id" : "AM_head_bs_!Aging Head Controller",
+				"url" : "#%21Face%20Age%20Controller"
+			}
+		]
+	}
+}
