@@ -1,0 +1,180 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/data/DAZ%203D/Genesis%209/Base/Morphs/DAZ%203D/FACSExpressions/facs_ctrl_Irritated.dsf",
+		"type" : "modifier",
+		"contributor" : {
+			"author" : "Daz 3D",
+			"email" : "",
+			"website" : "www.daz3d.com"
+		},
+		"revision" : "1.0",
+		"modified" : "2022-03-14T14:09:43Z"
+	},
+	"modifier_library" : [
+		{
+			"id" : "facs_ctrl_Irritated",
+			"name" : "facs_ctrl_Irritated",
+			"parent" : "/data/Daz%203D/Genesis%209/Base/Genesis9.dsf#Genesis9",
+			"presentation" : {
+				"type" : "Modifier/Pose",
+				"label" : "",
+				"description" : "",
+				"icon_large" : "/data/DAZ%203D/Genesis%209/Base/Morphs/DAZ%203D/FACSExpressions/facs_ctrl_Irritated.png",
+				"colors" : [ [ 0.4588235, 0.172549, 0.2156863 ], [ 1, 1, 1 ] ]
+			},
+			"channel" : {
+				"id" : "value",
+				"type" : "float",
+				"name" : "facs_ctrl_Irritated",
+				"label" : "Irritated",
+				"auto_follow" : true,
+				"value" : 0,
+				"min" : 0,
+				"max" : 1,
+				"clamped" : true,
+				"display_as_percent" : true,
+				"step_size" : 0.04
+			},
+			"group" : "/Pose Controls/Head/Expressions",
+			"formulas" : [
+				{
+					"output" : "Genesis9:/data/Daz%203D/Genesis%209/Base/Morphs/Daz%203D/FACS/facs_ctrl_NoseSneer.dsf#facs_ctrl_NoseSneer?value",
+					"operations" : [
+						{ "op" : "push", "url" : "Genesis9:#facs_ctrl_Irritated?value" },
+						{ "op" : "push", "val" : 0.6 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Genesis9:/data/Daz%203D/Genesis%209/Base/Morphs/Daz%203D/FACS/facs_ctrl_NasalFlare.dsf#facs_ctrl_NasalFlare?value",
+					"operations" : [
+						{ "op" : "push", "url" : "Genesis9:#facs_ctrl_Irritated?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Genesis9:/data/Daz%203D/Genesis%209/Base/Morphs/Daz%203D/FACS/facs_ctrl_MouthRollLower.dsf#facs_ctrl_MouthRollLower?value",
+					"operations" : [
+						{ "op" : "push", "url" : "Genesis9:#facs_ctrl_Irritated?value" },
+						{ "op" : "push", "val" : 0.1 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Genesis9:/data/Daz%203D/Genesis%209/Base/Morphs/Daz%203D/FACS/facs_ctrl_MouthPress.dsf#facs_ctrl_MouthPress?value",
+					"operations" : [
+						{ "op" : "push", "url" : "Genesis9:#facs_ctrl_Irritated?value" },
+						{ "op" : "push", "val" : 0.35 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Genesis9:/data/Daz%203D/Genesis%209/Base/Morphs/Daz%203D/FACS/facs_ctrl_MouthFrown.dsf#facs_ctrl_MouthFrown?value",
+					"operations" : [
+						{ "op" : "push", "url" : "Genesis9:#facs_ctrl_Irritated?value" },
+						{ "op" : "push", "val" : 0.5 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Genesis9:/data/Daz%203D/Genesis%209/Base/Morphs/Daz%203D/FACS/facs_ctrl_MouthDimple.dsf#facs_ctrl_MouthDimple?value",
+					"operations" : [
+						{ "op" : "push", "url" : "Genesis9:#facs_ctrl_Irritated?value" },
+						{ "op" : "push", "val" : 0.3 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Genesis9:/data/Daz%203D/Genesis%209/Base/Morphs/Daz%203D/FACS/facs_ctrl_EyeSquint.dsf#facs_ctrl_EyesSquint?value",
+					"operations" : [
+						{ "op" : "push", "url" : "Genesis9:#facs_ctrl_Irritated?value" },
+						{ "op" : "push", "val" : 0.45 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Genesis9:/data/Daz%203D/Genesis%209/Base/Morphs/Daz%203D/FACS/facs_ctrl_CheekSquint.dsf#facs_ctrl_CheekSquint?value",
+					"operations" : [
+						{ "op" : "push", "url" : "Genesis9:#facs_ctrl_Irritated?value" },
+						{ "op" : "push", "val" : 0.25 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "Genesis9:/data/Daz%203D/Genesis%209/Base/Morphs/Daz%203D/FACS/facs_ctrl_BrowDown.dsf#facs_ctrl_BrowDown?value",
+					"operations" : [
+						{ "op" : "push", "url" : "Genesis9:#facs_ctrl_Irritated?value" },
+						{ "op" : "push", "val" : 0.9 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "l_liplower:/data/Daz%203D/Genesis%209/Base/Genesis9.dsf#l_liplower?translation/x",
+					"operations" : [
+						{ "op" : "push", "url" : "Genesis9:#facs_ctrl_Irritated?value" },
+						{ "op" : "push", "val" : -0.15 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "r_liplower:/data/Daz%203D/Genesis%209/Base/Genesis9.dsf#r_liplower?translation/x",
+					"operations" : [
+						{ "op" : "push", "url" : "Genesis9:#facs_ctrl_Irritated?value" },
+						{ "op" : "push", "val" : 0.15 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "r_lipcorner:/data/Daz%203D/Genesis%209/Base/Genesis9.dsf#r_lipcorner?translation/x",
+					"operations" : [
+						{ "op" : "push", "url" : "Genesis9:#facs_ctrl_Irritated?value" },
+						{ "op" : "push", "val" : 0.15 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "l_browinner:/data/Daz%203D/Genesis%209/Base/Genesis9.dsf#l_browinner?translation/x",
+					"operations" : [
+						{ "op" : "push", "url" : "Genesis9:#facs_ctrl_Irritated?value" },
+						{ "op" : "push", "val" : -0.2 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "l_browinner:/data/Daz%203D/Genesis%209/Base/Genesis9.dsf#l_browinner?translation/y",
+					"operations" : [
+						{ "op" : "push", "url" : "Genesis9:#facs_ctrl_Irritated?value" },
+						{ "op" : "push", "val" : -0.2 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "l_lipupper:/data/Daz%203D/Genesis%209/Base/Genesis9.dsf#l_lipupper?translation/x",
+					"operations" : [
+						{ "op" : "push", "url" : "Genesis9:#facs_ctrl_Irritated?value" },
+						{ "op" : "push", "val" : -0.2 },
+						{ "op" : "mult" }
+					]
+				},
+				{
+					"output" : "r_lipupper:/data/Daz%203D/Genesis%209/Base/Genesis9.dsf#r_lipupper?translation/x",
+					"operations" : [
+						{ "op" : "push", "url" : "Genesis9:#facs_ctrl_Irritated?value" },
+						{ "op" : "push", "val" : 0.2 },
+						{ "op" : "mult" }
+					]
+				}
+			]
+		}
+	],
+	"scene" : {
+		"modifiers" : [
+			{
+				"id" : "facs_ctrl_Irritated-1",
+				"url" : "#facs_ctrl_Irritated"
+			}
+		]
+	}
+}

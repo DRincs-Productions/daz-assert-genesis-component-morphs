@@ -1,0 +1,67 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/data/DAZ%203D/Genesis%209/Base/Morphs/DAZ%203D/Body%20Masculine/body_bs_NipplesDiameterMasculine.dsf",
+		"type" : "modifier",
+		"contributor" : {
+			"author" : "Daz 3D",
+			"email" : "",
+			"website" : "www.daz3d.com"
+		},
+		"revision" : "1.0",
+		"modified" : "2022-07-20T19:13:33Z"
+	},
+	"modifier_library" : [
+		{
+			"id" : "body_bs_NipplesDiameterMasculine",
+			"name" : "body_bs_NipplesDiameterMasculine",
+			"parent" : "/data/Daz%203D/Genesis%209/Base/Genesis9.dsf#Genesis9-1",
+			"presentation" : {
+				"type" : "Modifier/Shape",
+				"label" : "",
+				"description" : "",
+				"icon_large" : "",
+				"colors" : [ [ 0.5019608, 0.5019608, 0.7529412 ], [ 1, 1, 1 ] ]
+			},
+			"channel" : {
+				"id" : "value",
+				"type" : "float",
+				"name" : "Value",
+				"label" : "Nipples Diameter Masculine",
+				"auto_follow" : true,
+				"value" : 0,
+				"min" : -1,
+				"max" : 1,
+				"clamped" : true,
+				"display_as_percent" : true,
+				"step_size" : 0.01
+			},
+			"region" : "Chest",
+			"group" : "/Masculine",
+			"morph" : {
+				"vertex_count" : 25182,
+				"deltas" : {
+					"count" : 8,
+					"values" : [
+						[ 24020, 0.3102999, -0.3830032, -0.373641 ],
+						[ 24021, -0.5194998, -0.3740005, 0.2924118 ],
+						[ 24148, -0.3267994, 0.3829956, 0.3736382 ],
+						[ 24149, 0.5194988, 0.364006, -0.2924004 ],
+						[ 24560, -0.3102999, -0.3830032, -0.373641 ],
+						[ 24561, 0.5194998, -0.3740005, 0.2924118 ],
+						[ 24681, 0.3267994, 0.3829956, 0.3736382 ],
+						[ 24682, -0.5194988, 0.364006, -0.2924004 ]
+					]
+				}
+			}
+		}
+	],
+	"scene" : {
+		"modifiers" : [
+			{
+				"id" : "body_bs_NipplesDiameterMasculine-1",
+				"url" : "#body_bs_NipplesDiameterMasculine"
+			}
+		]
+	}
+}

@@ -1,0 +1,60 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/data/DAZ%203D/Genesis%209/Base/Morphs/DAZ%203D/Body%20Feminine/body_bs_NipplesDepthFeminine_HD3.dsf",
+		"type" : "modifier",
+		"contributor" : {
+			"author" : "Daz 3D",
+			"email" : "",
+			"website" : "www.daz3d.com"
+		},
+		"revision" : "1.0",
+		"modified" : "2022-07-20T19:12:52Z"
+	},
+	"modifier_library" : [
+		{
+			"id" : "body_bs_NipplesDepthFeminine_HD3",
+			"name" : "body_bs_NipplesDepthFeminine_HD3",
+			"parent" : "/data/Daz%203D/Genesis%209/Base/Genesis9.dsf#Genesis9-1",
+			"presentation" : {
+				"type" : "Modifier/Shape",
+				"label" : "",
+				"description" : "",
+				"icon_large" : "",
+				"colors" : [ [ 0.5019608, 0.5019608, 0.7529412 ], [ 1, 1, 1 ] ]
+			},
+			"channel" : {
+				"id" : "value",
+				"type" : "float",
+				"name" : "Value",
+				"label" : "Nipples Depth Feminine HD",
+				"auto_follow" : true,
+				"value" : 0,
+				"min" : -1,
+				"max" : 1,
+				"clamped" : true,
+				"display_as_percent" : true,
+				"step_size" : 0.01
+			},
+			"region" : "Chest",
+			"group" : "/Feminine",
+			"morph" : {
+				"vertex_count" : 25182,
+				"deltas" : {
+					"count" : 0,
+					"values" : [
+					]
+				},
+				"hd_url" : "/data/Daz%203D/Genesis%209/Base/Morphs/Daz%203D/Body%20Feminine/body_bs_NipplesDepthFeminine_HD3.dhdm"
+			}
+		}
+	],
+	"scene" : {
+		"modifiers" : [
+			{
+				"id" : "body_bs_NipplesDepthFeminine_HD3-1",
+				"url" : "#body_bs_NipplesDepthFeminine_HD3"
+			}
+		]
+	}
+}

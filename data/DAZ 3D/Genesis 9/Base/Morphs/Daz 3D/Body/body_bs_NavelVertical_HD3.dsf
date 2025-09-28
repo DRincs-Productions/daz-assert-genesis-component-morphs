@@ -1,0 +1,79 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/data/DAZ%203D/Genesis%209/Base/Morphs/DAZ%203D/Body/body_bs_NavelVertical_HD3.dsf",
+		"type" : "modifier",
+		"contributor" : {
+			"author" : "Daz 3D",
+			"email" : "",
+			"website" : "www.daz3d.com"
+		},
+		"revision" : "1.0",
+		"modified" : "2022-03-14T17:47:56Z"
+	},
+	"modifier_library" : [
+		{
+			"id" : "body_bs_NavelVertical_HD3",
+			"name" : "body_bs_NavelVertical_HD3",
+			"parent" : "/data/Daz%203D/Genesis%209/Base/Genesis9.dsf#Genesis9-1",
+			"presentation" : {
+				"type" : "Modifier/Shape",
+				"label" : "",
+				"description" : "",
+				"icon_large" : "",
+				"colors" : [ [ 0.5019608, 0.5019608, 0.7529412 ], [ 1, 1, 1 ] ]
+			},
+			"channel" : {
+				"id" : "value",
+				"type" : "float",
+				"name" : "Value",
+				"label" : "Navel Vertical HD",
+				"value" : 0,
+				"min" : 0,
+				"max" : 1,
+				"clamped" : true,
+				"display_as_percent" : true,
+				"step_size" : 0.01
+			},
+			"region" : "Waist",
+			"group" : "/Base",
+			"morph" : {
+				"vertex_count" : 25182,
+				"deltas" : {
+					"count" : 20,
+					"values" : [
+						[ 24987, 2.499907e-05, -0.0100174, 0.05103874 ],
+						[ 24988, -0.02036548, -0.001197815, 0.09362125 ],
+						[ 24989, -2.0504e-05, 0.001152039, 0.009854317 ],
+						[ 24990, 6.997672e-06, 0.003959656, 0.02809429 ],
+						[ 24991, -3.218651e-06, 0.0003204346, 0.0103426 ],
+						[ 24992, -0.001013041, 0.001113892, -0.00124836 ],
+						[ 24993, -2.299954e-05, -0.1063309, -0.1639013 ],
+						[ 24994, -0.003495693, 0.003112793, 0.04870605 ],
+						[ 24995, 0.0009701252, 0.0001449585, 0.008168221 ],
+						[ 24996, 0.02036762, -0.0008621216, 0.09362316 ],
+						[ 24997, 2.074242e-05, 0.0009613037, 0.009868622 ],
+						[ 24998, 1.895428e-05, 0.0003509521, 0.01034355 ],
+						[ 24999, 0.001009941, 0.001037598, -0.001238823 ],
+						[ 25000, 0.003478527, 0.003128052, 0.04867268 ],
+						[ 25001, -0.0009572506, 0.0002059937, 0.008144379 ],
+						[ 25004, -9.981375e-07, -0.002296448, -0.01735115 ],
+						[ 25005, 0.0005369186, -0.0001296997, 0.001433372 ],
+						[ 25006, -0.0005357265, -7.629395e-05, 0.001424789 ],
+						[ 25007, 0.0001270771, -0.0001144409, 0.001197815 ],
+						[ 25008, -0.0001168251, -0.0002365112, 0.001193047 ]
+					]
+				},
+				"hd_url" : "/data/Daz%203D/Genesis%209/Base/Morphs/Daz%203D/Body/body_bs_NavelVertical_HD3.dhdm"
+			}
+		}
+	],
+	"scene" : {
+		"modifiers" : [
+			{
+				"id" : "body_bs_NavelVertical_HD3-1",
+				"url" : "#body_bs_NavelVertical_HD3"
+			}
+		]
+	}
+}
