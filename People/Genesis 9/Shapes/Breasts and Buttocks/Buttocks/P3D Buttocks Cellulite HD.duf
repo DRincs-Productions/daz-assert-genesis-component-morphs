@@ -1,0 +1,22 @@
+{
+	"file_version" : "0.6.1.0",
+	"asset_info" : {
+		"id" : "/People/Genesis%209/Shapes/P3Design/Breasts%20and%20Buttocks/P3D%20Buttocks%20Cellulite%20HD.duf",
+		"type" : "preset_shape",
+		"contributor" : {
+			"author" : "P3Design",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2025-04-10T07:48:10Z"
+	},
+	"scene" : {
+		"animations" : [
+			{
+				"url" : "name://@selection#P3DBBButtocksCelluliteHD:?value/value",
+				"keys" : [ [ 0, 1 ] ]
+			}
+		]
+	}
+}

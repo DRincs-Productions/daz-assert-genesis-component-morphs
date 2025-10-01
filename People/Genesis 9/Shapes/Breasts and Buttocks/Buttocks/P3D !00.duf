@@ -1,0 +1,18 @@
+{
+	"file_version" : "0.6.1.0",
+	"asset_info" : {
+		"id" : "/People/Genesis%209/Shapes/P3Design/Breasts%20and%20Buttocks/Buttocks/A%2000.duf",
+		"type" : "preset_pose",
+		"contributor" : {
+			"author" : "P3Design",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2025"
+	},
+	"scene" : {
+		"animations" : [
+		]
+	}
+}
