@@ -1,0 +1,38 @@
+{
+	"file_version" : "0.6.1.0",
+	"asset_info" : {
+		"id" : "/People/Genesis%209/Shapes/Zev0/Shape%20Shift/1%20Arms.duf",
+		"type" : "preset_shape",
+		"contributor" : {
+			"author" : "Zev0",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2022-10-30T22:42:31Z"
+	},
+	"scene" : {
+		"animations" : [
+			{
+				"url" : "name://@selection#SS_body_bs_Arm%20Flab:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#SS_body_bs_Arm%20Length:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#SS_body_bs_Arm%20Size:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#SS_body_bs_Arms%20Muscular:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#SS_body_bs_Wrist%20Thickness:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			}
+		]
+	}
+}

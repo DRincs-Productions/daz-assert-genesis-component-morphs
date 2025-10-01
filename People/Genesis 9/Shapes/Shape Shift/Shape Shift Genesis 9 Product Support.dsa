@@ -1,0 +1,3 @@
+// DAZ Studio version 4.7.0.12 filetype DAZ Script
+var g_sTOOL_NAME = "Pose Builder Product Support (DraagonStorm and Zev0)";
+App.showURL( "https://www.daz3d.com/forums/discussion/600901/place-holder-thread-3-commercial" );

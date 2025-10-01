@@ -1,0 +1,86 @@
+{
+	"file_version" : "0.6.1.0",
+	"asset_info" : {
+		"id" : "/People/Genesis%209/Shapes/Zev0/Shape%20Shift/8%20Glutes.duf",
+		"type" : "preset_shape",
+		"contributor" : {
+			"author" : "Zev0",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2022-10-30T22:45:44Z"
+	},
+	"scene" : {
+		"animations" : [
+			{
+				"url" : "name://@selection#SS_body_bs_Glute%20Crease:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#SS_body_bs_Glute%20Line%20sharpness:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#SS_body_bs_Glute%20Depth:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#SS_body_bs_Glute%20Depth%202:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#SS_body_bs_Glute%20Height%20Lower:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#SS_body_bs_Glute%20Height%20Upper:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#SS_body_bs_Glute%20Inner%20Close:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#SS_body_bs_Glute%20Height%20Inner:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#SS_body_bs_Glute%20Angle:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#SS_body_bs_Glute%20Size%201:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#SS_body_bs_Glute%20Size%202:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#SS_body_bs_Glute%20Size%203:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#SS_body_bs_Glute%20Tension:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#SS_body_bs_Glute%20UpDown:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#SS_body_bs_Glute%20Width:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#SS_body_bs_Glute%20Width%20Lower:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#SS_body_bs_Glute%20Width%20Upper:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			}
+		]
+	}
+}

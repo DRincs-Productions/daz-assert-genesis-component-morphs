@@ -1,0 +1,66 @@
+{
+	"file_version" : "0.6.1.0",
+	"asset_info" : {
+		"id" : "/People/Genesis%209/Shapes/Zev0/Shape%20Shift/7%20Anatomy%20Elements.duf",
+		"type" : "preset_shape",
+		"contributor" : {
+			"author" : "Zev0",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2022-10-30T22:45:13Z"
+	},
+	"scene" : {
+		"animations" : [
+			{
+				"url" : "name://@selection#SS_body_bs_Anatomy%20Area%20Smooth:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#SS_body_bs_Anatomy%20Width:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#SS_body_bs_Anatomy%20Depth:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#SS_body_bs_Anatomy%20Type%201:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#SS_body_bs_Anatomy%20Type%202:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#SS_body_bs_Anatomy%20Height%201:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#SS_body_bs_Anatomy%20Height%202:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#SS_body_bs_Anatomy%20Bulge%201:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#SS_body_bs_Anatomy%20Bulge%202:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#SS_body_bs_Anatomy%20Size:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#SS_body_bs_Groin%20Crease:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#SS_body_bs_Perineum%20Depth%20Adjust:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			}
+		]
+	}
+}

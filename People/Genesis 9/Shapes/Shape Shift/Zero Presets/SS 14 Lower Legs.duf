@@ -1,0 +1,86 @@
+{
+	"file_version" : "0.6.1.0",
+	"asset_info" : {
+		"id" : "/People/Genesis%209/Shapes/Zev0/Shape%20Shift/10%20Legs%20Lower.duf",
+		"type" : "preset_shape",
+		"contributor" : {
+			"author" : "Zev0",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2022-10-30T22:47:31Z"
+	},
+	"scene" : {
+		"animations" : [
+			{
+				"url" : "name://@selection#SS_body_bs_Ankle%20Definition:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#SS_body_bs_Ankle%20Thickness:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#SS_body_bs_Calf%20Flexed:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#SS_body_bs_Calf%20Type%201:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#SS_body_bs_Calf%20Type%202:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#SS_body_bs_Calf%20Type%203:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#SS_body_bs_Calf%20Type%204:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#SS_body_bs_Calf%20Type%205:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#SS_body_bs_Knee%20Detail%20Front:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#SS_body_bs_Knee%20Detail%20Rear:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#SS_body_bs_Knee%20Inner:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#SS_body_bs_Knee%20Outer:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#SS_body_bs_Shin%20Bone:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#SS_body_bs_Shin%20Front:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#SS_body_bs_Shin%20Length:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#SS_body_bs_Shin%20Muscular:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#SS_body_bs_Shin%20Thickness:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			}
+		]
+	}
+}
