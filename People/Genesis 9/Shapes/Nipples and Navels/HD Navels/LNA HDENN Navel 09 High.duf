@@ -1,0 +1,100 @@
+{
+	"file_version" : "0.6.1.0",
+	"asset_info" : {
+		"id" : "/People/Genesis%209/Anatomy/Luthbellina/HD%20Essentials/Nipples%20and%20Navels/HD%20Navels/LNA%20HDENN%20Navel%2009%20High.duf",
+		"type" : "preset_properties",
+		"contributor" : {
+			"author" : "Luthbellina",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2025-03-08T15:53:26Z"
+	},
+	"scene" : {
+		"materials" : [
+		],
+		"animations" : [
+			{
+				"url" : "name://@selection#LNA_body_bs_Navel01_HD04:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#LNA_body_bs_Navel01_HD05:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#LNA_body_bs_Navel02_HD04:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#LNA_body_bs_Navel02_HD05:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#LNA_body_bs_Navel03_HD04:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#LNA_body_bs_Navel03_HD05:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#LNA_body_bs_Navel04_HD04:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#LNA_body_bs_Navel04_HD05:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#LNA_body_bs_Navel05_HD04:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#LNA_body_bs_Navel05_HD05:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#LNA_body_bs_Navel06_HD04:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#LNA_body_bs_Navel06_HD05:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#LNA_body_bs_Navel07_HD04:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#LNA_body_bs_Navel07_HD05:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#LNA_body_bs_Navel08_HD04:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#LNA_body_bs_Navel08_HD05:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#LNA_body_bs_Navel09_HD04:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#LNA_body_bs_Navel09_HD05:?value/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection#LNA_body_bs_Navel10_HD04:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#LNA_body_bs_Navel10_HD05:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			}
+		]
+	}
+}

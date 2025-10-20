@@ -1,0 +1,60 @@
+{
+	"file_version" : "0.6.1.0",
+	"asset_info" : {
+		"id" : "/People/Genesis%209/Anatomy/Luthbellina/HD%20Essentials/Nipples%20and%20Navels/HD%20Shapes%20Breast%20Pectorals/LNA%20HDENN%20Pectoral%2002%20High.duf",
+		"type" : "preset_properties",
+		"contributor" : {
+			"author" : "Luthbellina",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2025-03-08T21:20:30Z"
+	},
+	"scene" : {
+		"materials" : [
+		],
+		"animations" : [
+			{
+				"url" : "name://@selection#LNA_body_bs_BreastDetails01_HD04:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#LNA_body_bs_BreastDetails02_HD04:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#LNA_body_bs_BreastShape01_HD04:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#LNA_body_bs_BreastShape02_HD04:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#LNA_body_bs_BreastShape03_HD04:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#LNA_body_bs_BreastShape04_HD04:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#LNA_body_bs_BreastShape05_HD04:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#LNA_body_bs_PectoralsDetails01_HD04:?value/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection#LNA_body_bs_PectoralsShape01_HD04:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#LNA_body_bs_PectoralsShape02_HD04:?value/value",
+				"keys" : [ [ 0, 1 ] ]
+			}
+		]
+	}
+}

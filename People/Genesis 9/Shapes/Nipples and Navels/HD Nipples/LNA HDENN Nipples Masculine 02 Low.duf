@@ -1,0 +1,100 @@
+{
+	"file_version" : "0.6.1.0",
+	"asset_info" : {
+		"id" : "/People/Genesis%209/Anatomy/Luthbellina/HD%20Essentials/Nipples%20and%20Navels/HD%20Nipples/LNA%20HDENN%20Nipples%20Masculine%2002%20Low.duf",
+		"type" : "preset_properties",
+		"contributor" : {
+			"author" : "Luthbellina",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2025-03-08T16:51:16Z"
+	},
+	"scene" : {
+		"materials" : [
+		],
+		"animations" : [
+			{
+				"url" : "name://@selection#LNA_body_bs_NipplesFemenine01_HD04:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#LNA_body_bs_NipplesFemenine01_HD05:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#LNA_body_bs_NipplesFemenine02_HD04:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#LNA_body_bs_NipplesFemenine02_HD05:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#LNA_body_bs_NipplesFemenine03_HD04:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#LNA_body_bs_NipplesFemenine03_HD05:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#LNA_body_bs_NipplesFemenine04_HD04:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#LNA_body_bs_NipplesFemenine04_HD05:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#LNA_body_bs_NipplesFemenine05_HD04:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#LNA_body_bs_NipplesFemenine05_HD05:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#LNA_body_bs_NipplesMasculine01_HD04:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#LNA_body_bs_NipplesMasculine01_HD05:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#LNA_body_bs_NipplesMasculine02_HD04:?value/value",
+				"keys" : [ [ 0, 0.8 ] ]
+			},
+			{
+				"url" : "name://@selection#LNA_body_bs_NipplesMasculine02_HD05:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#LNA_body_bs_NipplesMasculine03_HD04:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#LNA_body_bs_NipplesMasculine03_HD05:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#LNA_body_bs_NipplesMasculine04_HD04:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#LNA_body_bs_NipplesMasculine04_HD05:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#LNA_body_bs_NipplesMasculine05_HD04:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#LNA_body_bs_NipplesMasculine05_HD05:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			}
+		]
+	}
+}

@@ -1,0 +1,60 @@
+{
+	"file_version" : "0.6.1.0",
+	"asset_info" : {
+		"id" : "/People/Genesis%209/Anatomy/Luthbellina/HD%20Essentials/Nipples%20and%20Navels/HD%20Shapes%20Abdomen/LNA%20HDENN%20Abdomen%2008%20Low.duf",
+		"type" : "preset_properties",
+		"contributor" : {
+			"author" : "Luthbellina",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2025-03-08T19:10:51Z"
+	},
+	"scene" : {
+		"materials" : [
+		],
+		"animations" : [
+			{
+				"url" : "name://@selection#LNA_body_bs_AbdomenDetails01:?value/value",
+				"keys" : [ [ 0, 0.5 ] ]
+			},
+			{
+				"url" : "name://@selection#LNA_body_bs_AbdomenDetails02:?value/value",
+				"keys" : [ [ 0, 0.5 ] ]
+			},
+			{
+				"url" : "name://@selection#LNA_body_bs_AbdomenShape01:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#LNA_body_bs_AbdomenShape02:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#LNA_body_bs_AbdomenShape03:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#LNA_body_bs_AbdomenShape04:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#LNA_body_bs_AbdomenShape05:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#LNA_body_bs_AbdomenShape06:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#LNA_body_bs_AbdomenShape07:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#LNA_body_bs_AbdomenShape08:?value/value",
+				"keys" : [ [ 0, 0.8 ] ]
+			}
+		]
+	}
+}
