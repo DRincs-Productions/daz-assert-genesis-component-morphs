@@ -1,0 +1,50 @@
+{
+	"file_version" : "0.6.1.0",
+	"asset_info" : {
+		"id" : "/People/Genesis%209/Shapes/Zev0/Vascularity%20HD/Vascularity%20HD%20Zero%20Arm%20%26%20Hand%20Veins.duf",
+		"type" : "preset_shape",
+		"contributor" : {
+			"author" : "Zev0",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2023-02-17T09:26:27Z"
+	},
+	"scene" : {
+		"animations" : [
+			{
+				"url" : "name://@selection#Vas_body_bs_Arms%20Lower%20All%20Back:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Vas_body_bs_Arms%20Lower%20All%20Front:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Vas_body_bs_Arms%20Lower%20Basic:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Vas_body_bs_Arms%20Upper%20All%20Back:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Vas_body_bs_Arms%20Upper%20All%20Front:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Vas_body_bs_Arms%20Upper%20Basic:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Vas_body_bs_Hands%20All:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Vas_body_bs_Hands%20Basic:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			}
+		]
+	}
+}

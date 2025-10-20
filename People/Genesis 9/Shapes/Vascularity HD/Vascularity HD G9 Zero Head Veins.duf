@@ -1,0 +1,42 @@
+{
+	"file_version" : "0.6.1.0",
+	"asset_info" : {
+		"id" : "/People/Genesis%209/Shapes/Zev0/Vascularity%20HD/Vascularity%20HD%20Zero%20Head%20Veins.duf",
+		"type" : "preset_shape",
+		"contributor" : {
+			"author" : "Zev0",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2023-02-17T09:26:53Z"
+	},
+	"scene" : {
+		"animations" : [
+			{
+				"url" : "name://@selection#Vas_head_bs_Cranium:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Vas_head_bs_Face:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Vas_head_bs_Forehead%20All:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Vas_head_bs_Forehead%20Basic:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Vas_head_bs_Temple1:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#Vas_head_bs_Temple2:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			}
+		]
+	}
+}
