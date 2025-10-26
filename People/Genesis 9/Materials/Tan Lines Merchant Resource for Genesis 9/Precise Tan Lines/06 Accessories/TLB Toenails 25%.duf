@@ -1,0 +1,132 @@
+{
+	"file_version" : "0.6.1.0",
+	"asset_info" : {
+		"id" : "/People/Genesis%209/Tan%20Lines%20Builder%20Merchant%20Resource/L.I.E%20Tan%20Lines/Soft%20Tan%20Lines/06%20Accessories/TLB%20Toenails%20100%EF%BF%BDuf",
+		"type" : "preset_layered_image",
+		"contributor" : {
+			"author" : "annabird927",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2023-06-15T15:11:27Z"
+	},
+	"image_library" : [
+		{
+			"id" : "Ally9_Nails_D_1005_Angela9_Nails_D_1005 3_Angela9_Nails_D_1005 2",
+			"name" : "Ally9_Nails_D_1005_Angela9_Nails_D_1005 3_Angela9_Nails_D_1005 2",
+			"map_size" : [ 1024, 1024 ],
+			"map_gamma" : 0,
+			"map" : [
+				{
+					"url" : "/Runtime/Textures/ForbiddenWhispers/TanLinesG9/RingsWatches/Feet01%20copy.jpg",
+					"label" : "New Color Layer",
+					"active" : true,
+					"color" : [ 1, 1, 1 ],
+					"transparency" : 0.25,
+					"invert" : false,
+					"rotation" : 0,
+					"xmirror" : false,
+					"ymirror" : false,
+					"xscale" : 1,
+					"yscale" : 1,
+					"xoffset" : 0,
+					"yoffset" : 0,
+					"operation" : "blend_soft_light"
+				}
+			]
+		},
+		{
+			"id" : "Ally9_Nails_SSS_1005_Angela9_Nails_SSS_1005 3_Angela9_Nails_SSS_1005 2",
+			"name" : "Ally9_Nails_SSS_1005_Angela9_Nails_SSS_1005 3_Angela9_Nails_SSS_1005 2",
+			"map_size" : [ 1024, 1024 ],
+			"map_gamma" : 0,
+			"map" : [
+				{
+					"url" : "/Runtime/Textures/ForbiddenWhispers/TanLinesG9/RingsWatches/Feet01%20copy.jpg",
+					"label" : "New Color Layer",
+					"active" : true,
+					"color" : [ 1, 1, 1 ],
+					"transparency" : 0.25,
+					"invert" : false,
+					"rotation" : 0,
+					"xmirror" : false,
+					"ymirror" : false,
+					"xscale" : 1,
+					"yscale" : 1,
+					"xoffset" : 0,
+					"yoffset" : 0,
+					"operation" : "blend_soft_light"
+				}
+			]
+		}
+	],
+	"scene" : {
+		"animations" : [
+			{
+				"url" : "name://@selection#materials/Toenails:?diffuse/image",
+				"keys" : [ [ 0, "#Ally9_Nails_D_1005_Angela9_Nails_D_1005%203_Angela9_Nails_D_1005%202" ] ]
+			},
+			{
+				"url" : "name://@selection#materials/Toenails:?diffuse/image_modification/scale",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection#materials/Toenails:?diffuse/image_modification/offset",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#materials/Toenails:?diffuse/image_modification/invert",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection#materials/Toenails:?diffuse/image_modification/horizontal_tiles",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection#materials/Toenails:?diffuse/image_modification/horizontal_tiling_offset",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#materials/Toenails:?diffuse/image_modification/vertical_tiles",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection#materials/Toenails:?diffuse/image_modification/vertical_tiling_offset",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#materials/Toenails:?extra/studio_material_channels/channels/Translucency%20Color/image",
+				"keys" : [ [ 0, "#Ally9_Nails_SSS_1005_Angela9_Nails_SSS_1005%203_Angela9_Nails_SSS_1005%202" ] ]
+			},
+			{
+				"url" : "name://@selection#materials/Toenails:?extra/studio_material_channels/channels/Translucency%20Color/image_modification/scale",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection#materials/Toenails:?extra/studio_material_channels/channels/Translucency%20Color/image_modification/offset",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#materials/Toenails:?extra/studio_material_channels/channels/Translucency%20Color/image_modification/invert",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection#materials/Toenails:?extra/studio_material_channels/channels/Translucency%20Color/image_modification/horizontal_tiles",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection#materials/Toenails:?extra/studio_material_channels/channels/Translucency%20Color/image_modification/horizontal_tiling_offset",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#materials/Toenails:?extra/studio_material_channels/channels/Translucency%20Color/image_modification/vertical_tiles",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection#materials/Toenails:?extra/studio_material_channels/channels/Translucency%20Color/image_modification/vertical_tiling_offset",
+				"keys" : [ [ 0, 0 ] ]
+			}
+		]
+	}
+}
