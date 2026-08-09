@@ -1,0 +1,24 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/People/Genesis%208%20Female/Anatomy/Soto/Breast%20Utilities%202/Genesis%208%20Female/Offset%200.08.duf",
+		"type" : "preset_properties",
+		"contributor" : {
+			"author" : "Soto",
+			"email" : "",
+			"website" : "jc-soto.com"
+		},
+		"revision" : "1.0",
+		"modified" : "2021-11-09T21:51:11Z"
+	},
+	"scene" : {
+		"materials" : [
+		],
+		"animations" : [
+			{
+				"url" : "name://@selection#Offset:?extra/studio_modifier_channels/channels/Value/value",
+				"keys" : [ [ 0, 0.07 ] ]
+			}
+		]
+	}
+}
