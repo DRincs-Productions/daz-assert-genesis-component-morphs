@@ -20,7 +20,7 @@
 				"type" : "Modifier/Shape",
 				"label" : "",
 				"description" : "",
-				"icon_large" : "",
+				"icon_large" : "/data/DAZ%203D/Genesis%209/Base/Morphs/DAZ%203D/Head/head_bs_CheekLowerSize.png",
 				"colors" : [ [ 0.5019608, 0.5019608, 0.7529412 ], [ 1, 1, 1 ] ]
 			},
 			"channel" : {
